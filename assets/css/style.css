@@ -1048,4 +1048,13 @@ footer{
     0%   {bottom:0px;}
     100%  {bottom:7px;}
 }
+
+.recuadro {
+            border: 2px solid #000; /* Borde del recuadro */
+            padding: 10px;          /* Espacio interno del recuadro */
+            margin: 20px;           /* Espacio externo del recuadro */
+            width: fit-content;     /* Ajuste del ancho al contenido */
+            border-radius: 5px;     /* Bordes redondeados */
+            background-color: #f9f9f9; /* Fondo del recuadro */
+        }
 /*========================Thank you=================
